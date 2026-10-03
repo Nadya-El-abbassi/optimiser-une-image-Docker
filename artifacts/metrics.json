@@ -1,8 +1,0 @@
-{
-  "exactitude": 0.7698,
-  "f1": 0.7644,
-  "auc": 0.8481,
-  "duree_entrainement_s": 1.07,
-  "n_entrainement": 25600,
-  "graine": 42
-}
